@@ -63,18 +63,6 @@ ATS Score + Skill Gap Analysis
 + Resume Suggestions
 + Interview Questions
 
-## Folder Structure
-
-AI-Resume-Analyzer/
-├── app.py
-├── resume_parser.py
-├── rag_pipeline.py
-├── interview_generator.py
-├── requirements.txt
-├── Dockerfile
-├── README.md
-└── chroma_db/
-
 ## Installation
 
 ```bash
@@ -96,6 +84,3 @@ uvicorn app:app --reload
 - Resume Ranking Dashboard
 - PDF Report Generation
 - CI/CD Deployment Pipeline
-
-## Author
-Ashwin V
